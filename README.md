@@ -1,2 +1,2 @@
 # IDC-Deep-Learning-Project
-This project uses the ml5.js model to train the image classifier
+This project uses the “MobileNet” model from the ml5 project to train the image classifier
